@@ -1,0 +1,4 @@
+baseURL = 'https://djpm.xyz/'
+languageCode = 'en-us'
+title = 'DjPM'
+theme = 'qubt'

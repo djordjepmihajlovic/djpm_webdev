@@ -1,0 +1,25 @@
+############################
+## Author
+############################
+
+author:
+  name: "Djordje Mihajlovic"
+  image: cover_photo.jpg
+  greeting: "I like maths and computers. PhD with TAPLab :dna: & AGQ CDT @ UofE."
+  # icon: ":knot:"
+
+############################
+## Links
+############################
+
+links:
+  - github: https://github.com/djordjepmihajlovic
+  - orcid: https://github.com/chrede88/L1nkr
+  - stack-overflow: https://stackoverflow.com/users/22311313/djm?tab=profile
+  - linkedin: https://www.linkedin.com/in/djordjemihajlovic00
+  - strava: https://github.com/chrede88/L1nkr
+
+###############################
+
+title: "DjPM"
+description: "Site built with Qubt & Hugo"

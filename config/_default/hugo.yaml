@@ -1,0 +1,13 @@
+baseURL: 'https://djpm.xyz'
+title: 'DjPM'
+
+enableEmoji: true
+disableKinds: ["taxonomy", "term"]
+languageCode: "en-us"
+enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderHooks:
+      image:
+        enableDefault: true

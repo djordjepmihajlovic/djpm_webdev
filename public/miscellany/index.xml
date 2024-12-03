@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellaneous on DjPM</title>
+    <link>http://localhost:1313/miscellany/</link>
+    <description>Recent content in Miscellaneous on DjPM</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/miscellany/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edinburgh-Glasgow Ultramarathon</title>
+      <link>http://localhost:1313/miscellany/edinburgh-glasgow-run/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/miscellany/edinburgh-glasgow-run/</guid>
+      <description>My first ultramarathon clocking 93km @ 13:19:33 running from Edinburgh to Glasgow via the canal.</description>
+    </item>
+    <item>
+      <title>Edinburgh Marathon (2024)</title>
+      <link>http://localhost:1313/miscellany/edinburgh-marathon/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/miscellany/edinburgh-marathon/</guid>
+      <description>First marathon I&amp;rsquo;ve run, averaging 5:49km pace for a 4:07:29 official time.</description>
+    </item>
+    <item>
+      <title>Mount Kilimanjaro</title>
+      <link>http://localhost:1313/miscellany/mount-kilimanjaro/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/miscellany/mount-kilimanjaro/</guid>
+      <description>Mount Kilimanjaro ascent 2019</description>
+    </item>
+  </channel>
+</rss>

@@ -6,91 +6,70 @@
     <description>Recent content on DjPM</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog Post with Inline Images</title>
-      <link>http://localhost:1313/projects/post1/</link>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/post1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <title>Quant</title>
+      <link>http://localhost:1313/projects/quantitative-models/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quantitative-models/</guid>
+      <description>Quantitative models for financial market forecasting, both known methods and custom built analysis on several different markets spanning stocks, commodities, derivatives and bonds (constantly updated).</description>
     </item>
     <item>
-      <title>Blog Post with Inline Images</title>
-      <link>http://localhost:1313/publications/post1/</link>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/post1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    <item>
-      <title>Blog Post with Inline Images</title>
+      <title>WPI-SKCM2 Winter School, Japan 2024</title>
       <link>http://localhost:1313/talks/post1/</link>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/talks/post1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <description>Presentation given at the WPI-SKCM2 winter school @ Hiroshima Univeristy, Japan.</description>
     </item>
     <item>
-      <title>Blog Post With Extra Extra Long Title That Keeps On Going</title>
-      <link>http://localhost:1313/projects/post2/</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/post2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <title>Edinburgh-Glasgow Ultramarathon</title>
+      <link>http://localhost:1313/misc/edinburgh-glasgow-run/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/edinburgh-glasgow-run/</guid>
+      <description>My first ultramarathon clocking 93km @ 13:19:33 running from Edinburgh to Glasgow via the canal.</description>
     </item>
     <item>
-      <title>Blog Post With Extra Extra Long Title That Keeps On Going</title>
-      <link>http://localhost:1313/publications/post2/</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/post2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <title>Edinburgh Marathon</title>
+      <link>http://localhost:1313/misc/edinburgh-marathon/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/edinburgh-marathon/</guid>
+      <description>First marathon I&amp;rsquo;ve run, averaging 5:49km pace for a 4:07:29 official time.</description>
     </item>
     <item>
-      <title>Blog Post With Extra Extra Long Title That Keeps On Going</title>
-      <link>http://localhost:1313/talks/post2/</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/post2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <title>Spot a Knot</title>
+      <link>http://localhost:1313/projects/spotaknotgame/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/spotaknotgame/</guid>
+      <description>Spot a Knot game for teaching the difficulty in discerning topological objects (specifically knots) from one another for the general public.</description>
     </item>
     <item>
-      <title>Blog Post 3</title>
-      <link>http://localhost:1313/projects/post3/</link>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/post3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <title>3D Smectic Liquid Crystals</title>
+      <link>http://localhost:1313/projects/smectic-liquid-crystals/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/smectic-liquid-crystals/</guid>
+      <description>During the summer of 2023 I was funded to work on a project concerning the development of 3D smectic liquid crystal simulation in C++ and Python. My work concerned developing methods to constrain tensors to physically realizable states using lagrangian multipliers.</description>
     </item>
     <item>
-      <title>Blog Post 3</title>
-      <link>http://localhost:1313/publications/post3/</link>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/post3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <title>100Kg Clean and Jerk</title>
+      <link>http://localhost:1313/misc/100-clean/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/100-clean/</guid>
+      <description>Milestone 100kg Oly lifting Clean and Jerk about 1 1/2 years into training.</description>
     </item>
     <item>
-      <title>Blog Post 3</title>
-      <link>http://localhost:1313/talks/post3/</link>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/post3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <title>Mount Kilimanjaro</title>
+      <link>http://localhost:1313/misc/mount-kilimanjaro/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/mount-kilimanjaro/</guid>
+      <description>Mount Kilimanjaro, Tanzania ascent 2019 +5895m altitude.</description>
     </item>
     <item>
-      <title>Blog Post 4</title>
-      <link>http://localhost:1313/projects/post4/</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/post4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere. Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et.</description>
-    </item>
-    <item>
-      <title>Blog Post 4</title>
-      <link>http://localhost:1313/publications/post4/</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/post4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere. Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et.</description>
-    </item>
-    <item>
-      <title>Blog Post 4</title>
-      <link>http://localhost:1313/talks/post4/</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/post4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere. Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et.</description>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a 1st year PhD maths student based at the University of Edinburgh, jointly supervised by Davide Michielleto &amp;amp; Tudor Dimofte. I work primarily on the intersection between pure and applied mathematics using machine learning to investigate problems in knot theory spanning both protein folding and topological invariants.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -8,6 +8,8 @@ enableRobotsTXT: true
 
 markup:
   goldmark:
-    renderHooks:
+    renderer:
+      unsafe: true
+    renderHooks: 
       image:
         enableDefault: true

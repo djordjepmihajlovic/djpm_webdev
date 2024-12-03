@@ -2,12 +2,18 @@ main:
 - name: Home
   url: /
   weight: 10
+- name: About
+  url: /about/
+  weight: 20
 - name: Publications
   url: /publications/
-  weight: 20
-- name: Selected Talks
-  url: /talks/
   weight: 30
-- name: Personal Projects
-  url: /projects/
+- name: Talks
+  url: /talks/
   weight: 40
+- name: Projects 
+  url: /projects/
+  weight: 50
+- name: Misc
+  url: /misc/
+  weight: 60

@@ -1,40 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on DjPM</title>
+    <title>Projects on DjPM</title>
     <link>http://localhost:1313/projects-copy/</link>
-    <description>Recent content in Blog on DjPM</description>
+    <description>Recent content in Projects on DjPM</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projects-copy/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog Post with Inline Images</title>
-      <link>http://localhost:1313/projects-copy/post1/</link>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects-copy/post1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <title>Quant</title>
+      <link>http://localhost:1313/projects-copy/quantitative-models/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects-copy/quantitative-models/</guid>
+      <description>Quantitative models for financial market forecasting, both known methods and custom built analysis on several different markets spanning stocks, commodities, derivatives and bonds (constantly updated).</description>
     </item>
     <item>
-      <title>Blog Post With Extra Extra Long Title That Keeps On Going</title>
-      <link>http://localhost:1313/projects-copy/post2/</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects-copy/post2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <title>Spot a Knot</title>
+      <link>http://localhost:1313/projects-copy/spotaknotgame/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects-copy/spotaknotgame/</guid>
+      <description>Spot a Knot game for teaching the difficulty in discerning topological objects (specifically knots) from one another for the general public.</description>
     </item>
     <item>
-      <title>Blog Post 3</title>
-      <link>http://localhost:1313/projects-copy/post3/</link>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects-copy/post3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    <item>
-      <title>Blog Post 4</title>
-      <link>http://localhost:1313/projects-copy/post4/</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects-copy/post4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere. Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et.</description>
+      <title>3D Smectic Liquid Crystals</title>
+      <link>http://localhost:1313/projects-copy/smectic-liquid-crystals/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects-copy/smectic-liquid-crystals/</guid>
+      <description>During the summer of 2023 I was funded to work on a project concerning the development of 3D smectic liquid crystal simulation in C++ and Python. My work concerned developing methods to constrain tensors to physically realizable states using lagrangian multipliers.</description>
     </item>
   </channel>
 </rss>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Talks on DjPM</title><link>https://djpm.xyz/talks/</link><description>Recent content in Talks on DjPM</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://djpm.xyz/talks/index.xml" rel="self" type="application/rss+xml"/><item><title>WPI-SKCM2 Winter School, Japan 2024</title><link>https://djpm.xyz/talks/post1/</link><pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate><guid>https://djpm.xyz/talks/post1/</guid><description>Presentation given at the WPI-SKCM2 winter school @ Hiroshima Univeristy, Japan.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on DjPM</title>
+    <link>http://localhost:1313/talks/</link>
+    <description>Recent content in Talks on DjPM</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WPI-SKCM2 Winter School, Japan 2024</title>
+      <link>http://localhost:1313/talks/post1/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/post1/</guid>
+      <description>Presentation given at the WPI-SKCM2 winter school @ Hiroshima Univeristy, Japan.</description>
+    </item>
+  </channel>
+</rss>

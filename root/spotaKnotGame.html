@@ -1,0 +1,51 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel= "stylesheet" href= "game.css"/>
+    <link rel="icon" type="image/x-icon" href="/img/pp_8bit2.jpg" class="image-cropper">
+    <meta name = "description" content= "Djordje Mihajlovic's personal homepage">
+    <meta name ="author" content= "Djordje Mihalovic">
+    <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+</head>
+<title>Spot a Knot @ DjPM.xyz</title>
+<body>
+    <div id="content">
+    <div class="app">
+        <h1>Welcome to Spot a Knot!</h1>
+        <p class="description">Spot a Knot is a game designed to teach the user about the difficulty in telling knots apart. Knots can be shown to be the same by applying the <a href="https://en.wikipedia.org/wiki/Reidemeister_move">Reidemeister moves</a>.</p>
+        <p class="description">The game is easy, you are shown a knot on the top row. You then have to guess which knot it is from the five below.</p>
+        <p class="description">Spot the correct knots to win!</p>
+
+        <div class="quiz">  
+            <div id="question-container">
+                <img class="answerimg" id="knot" src="img/knot1.jpg" alt="knot">
+            </div>
+            <div id="answers">
+                <button class="answerbtn">Answer 1</button>
+                <button class="answerbtn">Answer 2 </button>
+                <button class="answerbtn">Answer 3</button>
+                <button class="answerbtn">Answer 4</button>
+                <button class="answerbtn">Answer 5</button>
+
+            </div>
+            <br>
+            <div id="score-container">
+                Score: <span id="score">0</span>
+            </div>
+            <br>
+            <button id="next">Next</button>
+
+            <div class="difficulty">   
+                <label for="hardMode">Toggle hard mode<label>
+                <input type="checkbox" id="hardMode" onchange="toggleDifficulty()">
+            </div>
+                
+        </div>
+
+
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>

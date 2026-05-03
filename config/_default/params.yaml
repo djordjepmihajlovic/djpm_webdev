@@ -5,9 +5,7 @@
 author:
   name: "Djordje Mihajlovic"
   image: cover_photo.jpg
-  greeting: "I like maths and computers."
-
-  icon: ":knot:"
+  greeting: "Using maths and computers to do cool things."
 
 ############################
 ## Links
@@ -24,3 +22,5 @@ links:
 
 title: "DjPM"
 description: "Site built with Qubt & Hugo"
+images:
+  - nicepc.png

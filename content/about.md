@@ -8,4 +8,4 @@ name: Djordje Mihajlovic
 bio: True
 ---
 
-I'm a 1st year PhD maths student based at the University of Edinburgh, jointly supervised by Davide Michielleto & Tudor Dimofte. I work primarily on the intersection between pure and applied mathematics using machine learning to investigate problems in knot theory spanning both protein folding and topological invariants. 
+I'm a 1st year PhD maths student based at the University of Edinburgh, jointly supervised by Davide Michielleto & Tudor Dimofte. I work primarily on the intersection between mathematics, computer science and biophysics, using machine learning to investigate problems in knot theory spanning both topological invariants, and the relationship between structure and family of proteins. 

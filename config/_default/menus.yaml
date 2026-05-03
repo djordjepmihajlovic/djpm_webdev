@@ -5,15 +5,12 @@ main:
 - name: About
   url: /about/
   weight: 20
-- name: Publications
-  url: /publications/
+- name: Research
+  url: /research/
   weight: 30
-- name: Talks
-  url: /talks/
+- name: Talks & Conferences
+  url: /talks_conferences/
   weight: 40
-- name: Projects 
-  url: /projects/
+- name: Other
+  url: /other/
   weight: 50
-- name: Misc
-  url: /misc/
-  weight: 60

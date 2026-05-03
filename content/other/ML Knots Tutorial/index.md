@@ -10,4 +10,3 @@ toc: false
 
 This Jupyter notebook was developed for a tutorial at the University of Edinburgh for graduate mathematicians. The code is available at this <a href="https://github.com/djordjepmihajlovic">GitHub address</a> should you want to complete the tutorial yourself.
  <iframe src="/ML_knots.html" width="800" height="600"></iframe>
-

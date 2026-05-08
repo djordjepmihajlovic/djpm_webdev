@@ -4,7 +4,6 @@
       {{/* Add image and site title */}}
       {{ $image := resources.GetMatch (print "**" .Site.Params.Author.image) }}
       {{ $name := .Site.Params.Author.name }}
-      {{ $title := .Site.Params.title | default $name }}
       {{ $icon := .Site.Params.Author.icon }}
       {{ with $image }}
         {{ $image = $image.Filter (images.Process "resize 288x288 Lanczos q100 webp" ) }}
@@ -22,7 +21,7 @@
 
 
       <h1 class="text-center text-4xl font-extrabold text-slate-700 dark:text-slate-200">
-        {{ $title | markdownify | emojify }}
+        {{ $name | markdownify | emojify }}
       </h1>
 
       {{ with .Site.Params.Author.greeting }}

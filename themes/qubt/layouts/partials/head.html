@@ -26,6 +26,7 @@
   document.addEventListener("DOMContentLoaded", function () {
     if (!window.renderMathInElement) return;
     window.renderMathInElement(document.body, {
+      throwOnError: false,
       delimiters: [
         { left: "$$", right: "$$", display: true },
         { left: "$", right: "$", display: false },

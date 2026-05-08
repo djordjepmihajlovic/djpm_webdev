@@ -1,0 +1,47 @@
+#home-knot-playground {
+  position: relative;
+}
+
+.home-knot-drop {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 80;
+  width: clamp(72px, 8vw, 120px);
+  pointer-events: none;
+  user-select: none;
+  opacity: 0;
+  filter: drop-shadow(0 12px 18px rgba(15, 23, 42, 0.18));
+  transform: translate(-50%, -50%);
+  animation: home-knot-drop var(--home-knot-duration, 2s) cubic-bezier(0.2, 0.75, 0.25, 1) forwards;
+  will-change: transform, opacity;
+}
+
+.home-knot-drop__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@keyframes home-knot-drop {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -56%) scale(0.72) rotate(var(--home-knot-start-rotate, 0deg));
+  }
+
+  12% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1) rotate(var(--home-knot-start-rotate, 0deg));
+  }
+
+  100% {
+    opacity: 0;
+    transform: translate(calc(-50% + var(--home-knot-drift-x, 0px)), calc(-50% + 110vh)) scale(0.92) rotate(calc(var(--home-knot-start-rotate, 0deg) + var(--home-knot-end-rotate, 270deg)));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-knot-drop {
+    animation-duration: 0.8s;
+  }
+}

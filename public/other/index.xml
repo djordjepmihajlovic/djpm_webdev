@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Djordje Mihajlovic</title>
+    <link>https://djordjepmihajlovic.github.io/other/</link>
+    <description>Recent content in Projects on Djordje Mihajlovic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://djordjepmihajlovic.github.io/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Knots Tutorial</title>
+      <link>https://djordjepmihajlovic.github.io/other/ml-knots-tutorial/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://djordjepmihajlovic.github.io/other/ml-knots-tutorial/</guid>
+      <description>This is a introductory Jupyter notebook on machine learning methods. In particular, the examples carried out here aim to get one up to speed with ML concepts such as feed-forward neural networks, long-short term memory networks, decision trees and K-nearest neighbour models in PyTorch and SciKit-Learn.</description>
+    </item>
+    <item>
+      <title>Spot-a-Knot Game</title>
+      <link>https://djordjepmihajlovic.github.io/other/spotaknotgame/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://djordjepmihajlovic.github.io/other/spotaknotgame/</guid>
+      <description>Spot a Knot game for teaching the difficulty in discerning topological objects (specifically knots) from one another for the general public featured in Physics World magazine.</description>
+    </item>
+  </channel>
+</rss>

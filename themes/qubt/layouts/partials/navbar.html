@@ -1,4 +1,4 @@
-{{ $title := .Site.Title }}
+{{ $title := .Site.Params.title | default .Site.Title }}
 {{ $logo := resources.GetMatch "logo.*" }}
 
 
@@ -9,7 +9,7 @@
       <img src="{{ $logo.RelPermalink }}" class="h-8 w-8" alt="Logo" />
     {{ end }}
     <span class="self-center whitespace-nowrap text-2xl font-semibold text-slate-700 dark:text-slate-400">
-      {{ $title }}
+      {{ $title | markdownify | emojify }}
     </span>
   </a>
   <div class="flex flex-row space-x-8">

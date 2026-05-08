@@ -1,5 +1,5 @@
-baseURL: 'https://djpm.xyz'
-title: 'DjPM'
+baseURL: 'https://djordjepmihajlovic.github.io'
+title: 'Djordje Mihajlovic'
 
 enableEmoji: true
 disableKinds: ["taxonomy", "term"]

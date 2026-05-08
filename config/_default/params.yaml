@@ -14,13 +14,14 @@ author:
 links:
   - github: https://github.com/djordjepmihajlovic
   - orcid: https://orcid.org/0009-0008-7345-7681
+  - scholar:  https://scholar.google.com/citations?user=9WrJL2cAAAAJ&hl=en
   # - stack-overflow: https://math.stackexchange.com/users/1166352/djm
   - linkedin: https://www.linkedin.com/in/djordjemihajlovic00
-  - strava: https://strava.app.link/SGbqaSCzYOb
+  # - strava: https://strava.app.link/SGbqaSCzYOb
 
 ###############################
 
-title: "DjPM"
+title: '$S^{1}\hookright \mathbb{R}^{3}$'
 description: "Site built with Qubt & Hugo"
 images:
   - nicepc.png

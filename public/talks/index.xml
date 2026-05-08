@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Djordje Mihajlovic</title>
+    <link>https://djordjepmihajlovic.github.io/talks/</link>
+    <description>Recent content in Talks on Djordje Mihajlovic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://djordjepmihajlovic.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WPI-SKCM2 Winter School, Japan 2024</title>
+      <link>https://djordjepmihajlovic.github.io/talks/post1/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://djordjepmihajlovic.github.io/talks/post1/</guid>
+      <description>Presentation given at the WPI-SKCM2 winter school conference @ Hiroshima Univeristy, Japan.</description>
+    </item>
+  </channel>
+</rss>

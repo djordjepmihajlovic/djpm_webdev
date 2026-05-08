@@ -12,7 +12,7 @@
 ### Seminars ###
 
 #### [Applied Geometry and Topology in Edinburgh](https://agatedinburgh.github.io) ####
-* Co-organizer for AGATE seminar (summer term 2025) 
+* Co-organizer for AGATE seminar (2025-2026) 
 
 ### Conferences, Schools & Workshops ###
 

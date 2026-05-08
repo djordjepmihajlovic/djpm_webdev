@@ -8,5 +8,8 @@ title: Research
 ### Deep Learning for Knot Invariant Relationships
 * Probing conjectured relationships between invariants of knots using data analysis and machine learning methods.
 
+### Mechanistic Interpretability of Protein Language Models
+* Sifting through the latent space of pLMs to understand how they work in the context of geometry and folding.
+
 ### Knot Theoretic Measures for Protein Family Classification
 * Investigating the relationship between hierarchical protein families (CATH) and structural features motivated from geometry and topology.

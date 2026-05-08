@@ -22,7 +22,7 @@ links:
 ###############################
 
 title: 'Djordje Mihajlovic'
-navbar_title: 'S<sup>1</sup>&hookrightarrow;ℝ<sup>3</sup>'
+navbar_title: '$S^{1}\hookrightarrow \mathbb{R}^{3}$'
 description: "Site built with Qubt & Hugo"
 images:
   - nicepc.png

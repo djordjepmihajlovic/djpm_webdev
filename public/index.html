@@ -23,18 +23,25 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" />
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    if (!window.renderMathInElement) return;
-    window.renderMathInElement(document.body, {
+    if (!window.katex) return;
+
+    const navbarTitle = document.getElementById("navbar-title");
+    if (!navbarTitle) return;
+
+    let tex = navbarTitle.dataset.latex || navbarTitle.textContent || "";
+    tex = tex.trim();
+
+    if (tex.startsWith("$$") && tex.endsWith("$$")) {
+      tex = tex.slice(2, -2).trim();
+    } else if (tex.startsWith("$") && tex.endsWith("$")) {
+      tex = tex.slice(1, -1).trim();
+    }
+
+    window.katex.render(tex, navbarTitle, {
       throwOnError: false,
-      delimiters: [
-        { left: "$$", right: "$$", display: true },
-        { left: "$", right: "$", display: false },
-        { left: "\\(", right: "\\)", display: false },
-        { left: "\\[", right: "\\]", display: true }
-      ]
+      displayMode: false
     });
   });
 </script>
@@ -98,8 +105,8 @@
 <section class="mx-auto flex max-w-screen-xl items-center justify-between p-4">
   <a href="https://djordjepmihajlovic.github.io/" class="flex items-center space-x-3">
     
-    <span class="self-center whitespace-nowrap text-2xl font-semibold text-slate-700 dark:text-slate-400">
-      S<sup>1</sup>&hookrightarrow;ℝ<sup>3</sup>
+    <span id="navbar-title" data-latex="$S^{1}\hookrightarrow \mathbb{R}^{3}$" class="self-center whitespace-nowrap text-2xl font-semibold text-slate-700 dark:text-slate-400">
+      $S^{1}\hookrightarrow \mathbb{R}^{3}$
     </span>
   </a>
   <div class="flex flex-row space-x-8">

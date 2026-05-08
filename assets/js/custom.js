@@ -33,7 +33,7 @@ const createHomeKnotDrop = (x, y) => {
   drop.style.setProperty('--home-knot-drift-x', `${randomBetween(-140, 140)}px`)
   drop.style.setProperty('--home-knot-start-rotate', `${randomBetween(-35, 35)}deg`)
   drop.style.setProperty('--home-knot-end-rotate', `${randomBetween(180, 540)}deg`)
-  drop.style.setProperty('--home-knot-duration', `${randomBetween(1.6, 2.4)}s`)
+  drop.style.setProperty('--home-knot-duration', `${randomBetween(3.2, 4.8)}s`)
 
   image.className = 'home-knot-drop__image'
   image.src = knot.src
